@@ -1,0 +1,83 @@
+body {
+  height: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.demo {
+  border: 5px solid #c0c0c0;
+  border-collapse: collapse;
+  padding: 5px;
+  border-collapse: collapse;
+}
+.demo th {
+  border: 1px solid #c0c0c0;
+  padding: 5px;
+  background: #f0f0f0;
+}
+.demo td {
+  border: 1px solid #c0c0c0;
+  padding: 5px;
+}
+
+.demo .iltur {
+  background-color: aqua;
+}
+
+.demo .computer {
+  background-color: rgba(247, 69, 4, 0.974);
+}
+.demo .composition {
+  background-color: rgba(23, 55, 137, 0.974);
+  color: white;
+}
+.demo .his {
+  background-color: rgba(20, 160, 18, 0.974);
+}
+.demo .eng {
+  background-color: rgba(198, 32, 156, 0.974);
+}
+.demo .lash {
+  background-color: rgba(5, 80, 91, 0.974);
+  color: yellow;
+}
+.demo .sport {
+  background-color: rgba(225, 225, 8, 0.974);
+}
+.demo .math {
+  background-color: rgba(129, 208, 150, 0.974);
+}
+.demo .sif {
+  background-color: rgba(77, 3, 3, 0.974);
+  color: white;
+}
+.demo .bio {
+  background-color: rgba(61, 21, 68, 0.974);
+  color: bisque;
+}
+.demo .ear {
+  background-color: rgba(255, 255, 255, 0.974);
+}
+.demo .hin {
+  background-color: rgba(17, 38, 222, 0.974);
+  color: white;
+}
+.demo .m-i {
+  background-color: rgba(58, 16, 16, 0.974);
+  color: rgba(129, 208, 150, 0.974);
+}
+.demo .jazz {
+  background-color: rgba(224, 94, 8, 0.974);
+  color: white;
+}
+.demo .ibud {
+  background-color: rgba(17, 195, 222, 0.974);
+  color: rgba(0, 0, 0, 0.974);
+}
+.demo .tanah {
+  background-color: rgba(255, 123, 240, 0.974);
+}
+.demo .mc {
+  background-color: rgba(0, 0, 0, 0.974);
+  color: whitesmoke;
+}
